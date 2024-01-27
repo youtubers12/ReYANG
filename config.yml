@@ -7,7 +7,7 @@ auto_redeem:
   # enable auto_redeem or not (true / false)
   enabled: false
   # The token to redeem the codes with
-  token: "PUT_YOUR_TOKEN_HERE"
+  token: "MTExMzM4MzY1NzQ0NTUzOTk0MA.GVgFCQ.-WqKDTJRADNTLnppCPaw2HV_aCP9tNYSL3KviY"
 
 # Proxy-related settings
 proxies:
